@@ -1,6 +1,8 @@
-# blankbabel
+# Convert xml to json
 
-Intended as a blank project template to save me having to set up all the babel stuff every time.  Copy it, don't modify it i.e. delete the .git and git init or just switch the remote
+Then manipulate the json and convert it back to xml
+
+From veryhelpful article https://tutorialedge.net/javascript/nodejs/editing-xml-files-with-nodejs/
 
 npm install
 
