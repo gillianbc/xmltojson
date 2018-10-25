@@ -1,0 +1,19 @@
+{
+  "name": "examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx babel src --out-dir lib",
+    "start": "node ./lib/index"
+  },
+  "author": "gillianbc",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.1.2",
+    "@babel/core": "^7.1.2",
+    "@babel/preset-env": "^7.1.0",
+    "xml2js": "0.4.19"
+  }
+}
